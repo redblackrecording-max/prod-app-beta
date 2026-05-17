@@ -1,0 +1,17 @@
+OPTIONAL_staticwebapp.config.example.json	221 bytes
+README_UPLOAD_ROOT_ONLY.txt	1,704 bytes
+SBX_Pre_Testing_SOP_R01.docx	325,855 bytes
+Shipping_and_Receiving_SOP_R01.pdf	2,498,115 bytes
+chassis_clickable_sop_dashboard.html	6,858,719 bytes
+config.js	55 bytes
+dashboard_wizard_v15.webp	73,838 bytes
+icon-192.png	26,902 bytes
+icon-512.png	29,340 bytes
+index.html	307,343 bytes
+inventory_value_stream.html	849,791 bytes
+manifest.json	411 bytes
+pretesting_clickable_sop_dashboard.html	2,795,364 bytes
+scanner_main_assembly_clickable_sop_dashboard.html	7,553,819 bytes
+service-worker.js	539 bytes
+shipping_receiving_dashboard.html	748,062 bytes
+testing_dashboard.html	1,011,238 bytes

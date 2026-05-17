@@ -1,0 +1,9 @@
+TCG Dashboard beta package v16
+
+Changes from prior package:
+- Full centered wizard background on main dashboard
+- Wizard made more vibrant/clean
+- All button audio removed
+- index.html remains the real dashboard page with a passcode overlay
+
+Passcode: TCG9000
